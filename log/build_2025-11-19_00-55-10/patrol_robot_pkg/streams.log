@@ -1,0 +1,47 @@
+[0.389s] Invoking command in '/home/harshros/dev_ws/src/patrol_robot_pkg': PYTHONPATH=/home/harshros/dev_ws/build/patrol_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/patrol_robot_pkg build --build-base /home/harshros/dev_ws/build/patrol_robot_pkg/build install --record /home/harshros/dev_ws/build/patrol_robot_pkg/install.log --single-version-externally-managed install_data
+[0.532s] running egg_info
+[0.534s] creating ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info
+[0.534s] writing ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/PKG-INFO
+[0.534s] writing dependency_links to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/dependency_links.txt
+[0.534s] writing entry points to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/entry_points.txt
+[0.534s] writing requirements to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/requires.txt
+[0.534s] writing top-level names to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/top_level.txt
+[0.534s] writing manifest file '../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/SOURCES.txt'
+[0.534s] reading manifest file '../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/SOURCES.txt'
+[0.536s] writing manifest file '../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/SOURCES.txt'
+[0.536s] running build
+[0.536s] running build_py
+[0.536s] creating /home/harshros/dev_ws/build/patrol_robot_pkg/build
+[0.536s] creating /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib
+[0.536s] creating /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+[0.536s] copying patrol_robot_pkg/patrol_robot_node.py -> /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+[0.536s] copying patrol_robot_pkg/__init__.py -> /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+[0.537s] copying patrol_robot_pkg/robot_navigator.py -> /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+[0.537s] running install
+[0.537s] running install_lib
+[0.537s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+[0.537s] copying /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg/patrol_robot_node.py -> /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+[0.537s] copying /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg/__init__.py -> /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+[0.538s] copying /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg/robot_navigator.py -> /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+[0.538s] byte-compiling /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg/patrol_robot_node.py to patrol_robot_node.cpython-310.pyc
+[0.539s] byte-compiling /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg/__init__.py to __init__.cpython-310.pyc
+[0.539s] byte-compiling /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg/robot_navigator.py to robot_navigator.cpython-310.pyc
+[0.540s] running install_data
+[0.540s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index
+[0.540s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index/resource_index
+[0.540s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index/resource_index/packages
+[0.540s] copying resource/patrol_robot_pkg -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index/resource_index/packages
+[0.540s] copying package.xml -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg
+[0.540s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/launch
+[0.540s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/config
+[0.540s] copying config/nav2_params.yaml -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/config
+[0.540s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/maps
+[0.540s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/rviz
+[0.541s] creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/worlds
+[0.541s] copying worlds/simple_world.world -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/worlds
+[0.541s] running install_egg_info
+[0.541s] Copying ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info to /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg-0.0.1-py3.10.egg-info
+[0.543s] running install_scripts
+[0.554s] Installing patrol_robot script to /home/harshros/dev_ws/install/patrol_robot_pkg/lib/patrol_robot_pkg
+[0.554s] writing list of installed files to '/home/harshros/dev_ws/build/patrol_robot_pkg/install.log'
+[0.567s] Invoked command in '/home/harshros/dev_ws/src/patrol_robot_pkg' returned '0': PYTHONPATH=/home/harshros/dev_ws/build/patrol_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/patrol_robot_pkg build --build-base /home/harshros/dev_ws/build/patrol_robot_pkg/build install --record /home/harshros/dev_ws/build/patrol_robot_pkg/install.log --single-version-externally-managed install_data

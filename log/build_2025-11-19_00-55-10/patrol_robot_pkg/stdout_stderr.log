@@ -1,0 +1,45 @@
+running egg_info
+creating ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info
+writing ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/requires.txt
+writing top-level names to ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/top_level.txt
+writing manifest file '../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/harshros/dev_ws/build/patrol_robot_pkg/build
+creating /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib
+creating /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+copying patrol_robot_pkg/patrol_robot_node.py -> /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+copying patrol_robot_pkg/__init__.py -> /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+copying patrol_robot_pkg/robot_navigator.py -> /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg
+running install
+running install_lib
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+copying /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg/patrol_robot_node.py -> /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+copying /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg/__init__.py -> /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+copying /home/harshros/dev_ws/build/patrol_robot_pkg/build/lib/patrol_robot_pkg/robot_navigator.py -> /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg
+byte-compiling /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg/patrol_robot_node.py to patrol_robot_node.cpython-310.pyc
+byte-compiling /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg/robot_navigator.py to robot_navigator.cpython-310.pyc
+running install_data
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index/resource_index
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index/resource_index/packages
+copying resource/patrol_robot_pkg -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/launch
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/config
+copying config/nav2_params.yaml -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/config
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/maps
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/rviz
+creating /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/worlds
+copying worlds/simple_world.world -> /home/harshros/dev_ws/install/patrol_robot_pkg/share/patrol_robot_pkg/worlds
+running install_egg_info
+Copying ../../build/patrol_robot_pkg/patrol_robot_pkg.egg-info to /home/harshros/dev_ws/install/patrol_robot_pkg/lib/python3.10/site-packages/patrol_robot_pkg-0.0.1-py3.10.egg-info
+running install_scripts
+Installing patrol_robot script to /home/harshros/dev_ws/install/patrol_robot_pkg/lib/patrol_robot_pkg
+writing list of installed files to '/home/harshros/dev_ws/build/patrol_robot_pkg/install.log'

@@ -1,0 +1,3 @@
+[console_scripts]
+patrol_robot = patrol_robot_pkg.patrol_robot_node:main
+
