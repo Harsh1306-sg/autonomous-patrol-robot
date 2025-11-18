@@ -20,7 +20,6 @@ A ROS2 Humble–based autonomous patrol robot system that uses the Nav2 stack fo
 - [License](#license)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-- [Support](#support)
 
 ## Features
 
