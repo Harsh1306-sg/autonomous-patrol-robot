@@ -147,11 +147,6 @@ autonomous-patrol-robot/
 └── .gitignore                            # Git ignore file
 ```
 
-Generated:
-```
-~/patrol_logs/
-└── patrol_YYYYMMDD_HHMMSS.json
-```
 
 ## Configuration
 
