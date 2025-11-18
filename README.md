@@ -245,7 +245,3 @@ GitHub: https://github.com/Harsh1306-sg
 - Automatic Addison tutorials
 - TurtleBot3 (ROBOTIS)
 - ROS2 & Nav2 communities
-
-## Support
-
-Check Troubleshooting or open a GitHub Issue.
