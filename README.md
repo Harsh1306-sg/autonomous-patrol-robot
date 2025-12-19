@@ -17,7 +17,6 @@ A ROS2 Humble–based autonomous patrol robot system that uses the Nav2 stack fo
 - [Contributing](#contributing)
 - [Assignment Requirements](#assignment-requirements)
 - [Learning Resources](#learning-resources)
-- [License](#license)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -229,10 +228,6 @@ Implements:
 - Nav2 Documentation
 - TurtleBot3 Manual
 - Gazebo Tutorials
-
-## License
-
-Apache 2.0 License.
 
 ## Author
 
